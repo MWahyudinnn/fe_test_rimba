@@ -1,5 +1,10 @@
 # ecommerce_app
 
+## Bugs
+```
+Bugs : Silder Image
+```
+
 ## Project setup
 ```
 yarn install
