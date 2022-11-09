@@ -1,4 +1,4 @@
-# recipe_app
+# ecommerce_app
 
 ## Project setup
 ```
